@@ -1,1 +1,1 @@
-# momento2_FrontendG3
+#  estar en la carpeta "Ejercicio1_1017250262 para ejecutar el proyecto.
